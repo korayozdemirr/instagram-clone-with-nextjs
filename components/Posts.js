@@ -13,7 +13,7 @@ const posts =[
         username:"korayozdemir",
         userImg:"https://avatars.githubusercontent.com/u/33378626?v=4",
         img:"https://avatars.githubusercontent.com/u/33378626?v=4",
-        caption:"hello world"
+        caption:"hello world hello world hello world hello world hello world hello world"
     }
 ]
 
